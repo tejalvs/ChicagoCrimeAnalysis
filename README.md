@@ -13,10 +13,11 @@ Census.csv:https://data.cityofchicago.org/Health-Human-Services/hardship-index/7
 This file contains the dataset in a csv format. 
 
 **2.Store the csv files in same directory as the .py file
+
 3.Go to the directory where the files are stored **
    cd <file location>
 
-** 4.run the .py file using the following command in the teminal ** 
+**4.run the .py file using the following command in the teminal** 
    python3 Appollo_main.py
 
 
