@@ -20,4 +20,4 @@ This file contains the dataset in a csv format.
 **4.run the .py file using the following command in the teminal** :
    python3 Appollo_main.py
 
-**5. All the visualisations will be created in the same directory **
+**5. All the visualisations will be created in the same directory**
