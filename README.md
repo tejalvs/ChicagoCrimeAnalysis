@@ -1,23 +1,17 @@
 # ChicagoCrimeAnalysis
-DatacleaningProject
+Python 3.3 or greater is required for running the Appollo_main.py file
+Steps to follow:
+**1.Download the following datasets from the given link**
+Crime.csv: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2
+Census.csv:https://data.cityofchicago.org/Health-Human-Services/hardship-index/792q-4jtu
 
-Chicago.csv
+Kindly rename the files as Crime.csv and Census.csv respectively.
 This file contains the dataset in a csv format. 
 
-DataCleaning_1.ipynb
-This is a jupyter notebook containing the code. To run the file follow the following steps.
+2.Store the csv files in same directory as the .py file
+3.Go to the directory where the files are stored 
+   cd <file location>
+5.run the .py file using the following command in the teminal 
+   python3 Appollo_main.py
 
-1) Python 3.3 or greater, or Python 2.7 is required for installing the Jupyter Notebook.
-3) Use the either of the following installation steps for running Jupyter:
-   A) Anaconda:
-        a) Download and install [Anaconda](https://www.anaconda.com/products/individual).
-     
-   B) Using pip:
-        a) Upgrade pip
-        ```pip3 install --upgrade pip```
-        b) Install jupyter
-        ```pip3 install jupyter```
-   
-   After installation to run the notebook use following command:
-        ``` jupyter notebook ```
- 
+
