@@ -3,6 +3,9 @@
 Final Files:
 DataCleaning_1.ipynb
 Visualisations.ipynb
+Mining.ipynb
+Cleaned_Census_dataframe.pkl	
+Cleaned_Crimes_dataframe.pkl
 
 # Steps to follow:
 
