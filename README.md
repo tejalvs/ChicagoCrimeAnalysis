@@ -32,8 +32,13 @@ This file contains the dataset in a csv format.
 
 
 Installation needed.
-download mysql from https://dev.mysql.com/downloads/mysql/
-then install the remaining packages
-pip3 install mysql-connector 
-pip3 install sqlalchemy
-pip3 install pymysql
+
+   download mysql from https://dev.mysql.com/downloads/mysql/
+
+   then install the remaining packages
+
+   pip3 install mysql-connector 
+
+   pip3 install sqlalchemy
+
+   pip3 install pymysql
