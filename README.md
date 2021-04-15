@@ -1,6 +1,8 @@
 # ChicagoCrimeAnalysis
 # Python 3.3 or greater is required for running the Appollo_main.py file
-
+Final Files:
+DataCleaning_1.ipynb
+Visualisations.ipynb
 
 # Steps to follow:
 
