@@ -29,3 +29,11 @@ This file contains the dataset in a csv format.
    python3 Appollo_main.py
 
 **5. All the visualisations will be created in the same directory**
+
+
+Installation needed.
+download mysql from https://dev.mysql.com/downloads/mysql/
+then install the remaining packages
+pip3 install mysql-connector 
+pip3 install sqlalchemy
+pip3 install pymysql
